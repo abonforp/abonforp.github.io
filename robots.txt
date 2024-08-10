@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abonforp.github.io/sitemap.html.gz
+Sitemap: https://abonforp.github.io/app/sitemap.html.gz
+Sitemap: https://abonforp.github.io/assets/sitemap.html.gz
+Sitemap: https://abonforp.github.io/css/sitemap.html.gz
+Sitemap: https://abonforp.github.io/includes/sitemap.html.gz
+Sitemap: https://abonforp.github.io/item/sitemap.html.gz
+Sitemap: https://abonforp.github.io/src/sitemap.html.gz
